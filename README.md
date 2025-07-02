@@ -4,4 +4,4 @@
 </div>
 
 <h3>Languages and Tools:</h3>
-<img src=https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,py,figma,git,flask&perline=3  />
+<img src=https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,py,figma,git,flask&perline=2  />
