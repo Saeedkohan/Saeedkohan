@@ -1,51 +1,117 @@
 <div align="center">
 
-# Hi there 👋 I'm Saeed Kohansal
+<!-- Glass / Neon Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=Saeed%20Kohansal&fontSize=52&fontAlignY=38&desc=C%2B%2B%20%7C%20Python%20%7C%20Game%20Dev%20%7C%20Web%20Scraping&descAlignY=62&color=0:0b1020,30:101a3a,60:4b2b7f,100:0b1020&fontColor=ffffff&animation=fadeIn" />
 
-💻 C++ / Python Developer  
-🎮 Game Developer  
-🕷 Web Scraping Enthusiast  
+<!-- Typing -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Performance%20%26%20Systems%20Learner;C%2B%2B%20%7C%20Python%20Developer;Game%20Developer;Web%20Scraping%20Enthusiast;Building%20clean%20and%20fast%20things&center=true&width=780&height=45&font=Fira%20Code&size=20&pause=900&color=9AE6FF" />
 
-</div>
+<br/>
 
----
-
-## 🛠 Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,postgres,github,git,figma,unity,unreal,cs,blender,&perline=6" />
-
-</div>
-
----
+<!-- Badges row -->
+<img src="https://img.shields.io/badge/Focus-Performance%20Engineering-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mindset-Clean%20Architecture-22C55E?style=for-the-badge" />
 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saeedkohan&theme=tokyonight)
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight)
+<br/><br/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🪩  About
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saeedkohan&theme=tokyo-night)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saeedkohan&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+**💻 C++ / Python Developer** • **🎮 Game Developer** • **🕷 Web Scraping Enthusiast**  
+**🧠 Learning:** systems programming, performance, tooling, and engineering workflows
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧩 Tech Stack 
 
 <div align="center">
 
-![snake gif](https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=cpp,py,postgres,github,git,figma,unity,unreal,cs,blender&perline=6" />
 
 </div>
+
+---
+
+## ✨ Neon Stats Cards
+
+<div align="center">
+
+username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> -->
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=Saeedkohan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+---
+
+## 🌌 Activity Graph (Cyber)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeedkohan&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake (Animation)
+
+<div align="center">
+
+<img src="https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🧊 Extra Glass Widgets
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saeedkohan&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saeedkohan&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saeedkohan&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saeedkohan&theme=tokyonight&utcOffset=1" />
+
+</div>
+
+---
+
+<details>
+  <summary>🛟 If GitHub Stats fails sometimes (click for backup)</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&hide_border=true" />
+  </div>
+</details>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saeedkohan&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1020,30:101a3a,60:4b2b7f,100:0b1020" />
