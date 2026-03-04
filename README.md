@@ -3,15 +3,14 @@
 <!-- Glass / Neon Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=Saeed%20Kohansal&fontSize=52&fontAlignY=38&desc=C%2B%2B%20%7C%20Python%20%7C%20Game%20Dev%20%7C%20Web%20Scraping&descAlignY=62&color=0:0b1020,30:101a3a,60:4b2b7f,100:0b1020&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Typing -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Performance%20%26%20Systems%20Learner;C%2B%2B%20%7C%20Python%20Developer;Game%20Developer;Web%20Scraping%20Enthusiast;Building%20clean%20and%20fast%20things&center=true&width=780&height=45&font=Fira%20Code&size=20&pause=900&color=9AE6FF" />
 
 <br/>
 
-<!-- Badges row -->
+<!-- Badges -->
 <img src="https://img.shields.io/badge/Focus-Performance%20Engineering-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mindset-Clean%20Architecture-22C55E?style=for-the-badge" />
-
 
 <br/><br/>
 
@@ -19,7 +18,7 @@
 
 ---
 
-## 🪩  About
+# 🪩 About
 
 <div align="center">
 
@@ -36,7 +35,7 @@
 
 ---
 
-## 🧩 Tech Stack 
+# 🧩 Tech Stack
 
 <div align="center">
 
@@ -46,11 +45,13 @@
 
 ---
 
-## ✨ Neon Stats Cards
+# ✨ Neon Stats Cards
 
 <div align="center">
 
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" /> -->
 
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> -->
 
 </div>
 
@@ -60,10 +61,9 @@
 
 </div>
 
-
 ---
 
-## 🌌 Activity Graph
+# 🌌 Activity Graph
 
 <div align="center">
 
@@ -73,17 +73,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Saeedkohan/Saeedkohan/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>>
+</div>
 
 ---
 
-## 🧊
+# 🧊 GitHub Summary Cards
 
 <div align="center">
 
@@ -100,12 +100,19 @@
 ---
 
 <details>
-  <summary>🛟 If GitHub Stats fails sometimes (click for backup)</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&hide_border=true" />
-  </div>
+<summary>🛟 If GitHub Stats fails sometimes (click for backup)</summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
 </details>
+
+---
 
 <div align="center">
 
@@ -113,5 +120,6 @@
 
 </div>
 
-<!-- Footer -->
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1020,30:101a3a,60:4b2b7f,100:0b1020" />
