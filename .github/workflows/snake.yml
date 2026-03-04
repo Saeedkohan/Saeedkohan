@@ -11,10 +11,9 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate snake SVGs
-      - uses: Platane/snk@v3
+      - name: Generate snake (SVG + Dark SVG)
+        uses: Platane/snk@v3
         with:
           github_user_name: Saeedkohan
           github_token: ${{ secrets.GITHUB_TOKEN }}
