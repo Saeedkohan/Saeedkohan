@@ -1,7 +1,59 @@
-<div>
-  <h1>Hi there 👋</h1>
-  <p>Game Developer and WebScraper </p>
+<div align="center">
+
+# Hi there 👋 I'm Saeed Kohansal
+
+💻 C++ / Python Developer  
+🎮 Game Developer  
+🕷 Web Scraping Enthusiast  
+
 </div>
 
-<h3>Languages and Tools:</h3>
-<img src=https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,py,figma,git,flask&perline=6  />
+---
+
+## 🛠 Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,py,postgres,github,git,figma,unity,unreal,cs,blender,&perline=6" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saeedkohan&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saeedkohan&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
