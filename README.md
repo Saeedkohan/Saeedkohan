@@ -50,7 +50,7 @@
 
 <div align="center">
 
-username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> -->
+
 
 </div>
 
@@ -63,7 +63,7 @@ username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_secon
 
 ---
 
-## 🌌 Activity Graph (Cyber)
+## 🌌 Activity Graph
 
 <div align="center">
 
@@ -73,7 +73,7 @@ username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_secon
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -83,7 +83,7 @@ username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_secon
 
 ---
 
-## 🧊 Extra Glass Widgets
+## 🧊
 
 <div align="center">
 
