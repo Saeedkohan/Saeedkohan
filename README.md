@@ -77,8 +77,8 @@ username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_secon
 
 <div align="center">
 
-<img src="https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake.svg" />
 
+<img src="https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
