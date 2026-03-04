@@ -24,8 +24,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&cache_seconds=86400)
 </div>
 
 ---
@@ -35,6 +34,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saeedkohan&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight)
 
 </div>
 
