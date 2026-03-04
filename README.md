@@ -78,8 +78,8 @@ username=Saeedkohan&layout=compact&theme=tokyonight&hide_border=true&cache_secon
 <div align="center">
 
 
-<img src="https://github.com/Saeedkohan/Saeedkohan/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>>
 
 ---
 
