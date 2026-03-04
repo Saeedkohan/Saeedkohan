@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saeedkohan/Saeedkohan/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
+<img src="https://raw.githubusercontent.com/Saeedkohan/Saeedkohan/output/github-contribution-grid-snake.svg?v=2" width="100%" />
 
 </div>
 
