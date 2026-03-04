@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeedkohan&show_icons=true&theme=tokyonight&cache_seconds=86400)
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
